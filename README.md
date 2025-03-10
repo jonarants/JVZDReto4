@@ -1,3 +1,4 @@
+
 # ¡Bienvenido a la práctica de Git!
 Este repositorio es un lugar seguro para practicar los conceptos básicos de Git. ¡Prueba una rebase sin arriesgar ningún código importante! ¡Aprende a sincronizar desde un repositorio anterior! ¡Resolver conflictos de fusión de forma práctica!
 Esta guía supone que tienes un conocimiento cómodo de los comandos de shell de Unix. Si quieres un repaso, [prueba aquí](https://github.com/you-dont-need/You-Dont-Need-GUI). Esta guía también supone que tienes una cuenta de Github existente y que has [agregado tu clave SSH a ella](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
